@@ -45,7 +45,7 @@ To bring out insights after data profiling
 
 ## d. Save the cleaned data
 
-# ** ARCHITECTURE - PREPROCESSING FLOWCHART**
+# ** ARCHITECTURE - FLOWCHART**
 
 
 <img src="https://raw.githubusercontent.com/Aahbree/Crime-Data-Analysis/main/Screen%20Shot%202021-12-12%20at%209.01.42%20PM.png" width="800" height="800">
